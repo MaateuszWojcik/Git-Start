@@ -1,0 +1,15 @@
+html{background-color:black;}
+
+body{color:white;}
+
+h1{font-size:45px;
+	font-weight:bold;
+	color:0,82,159;
+	display:block;}
+	
+h2{font-size:30px;
+	font-weight:italic;
+	color:white;}
+	
+footer{position:absolute;bottom:0;right:0;}
+
